@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "833864727331",
+    "firebase_url": "https://dropshop-app-demo.firebaseio.com",
+    "project_id": "dropshop-app-demo",
+    "storage_bucket": "dropshop-app-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833864727331:android:f46c09c8bbedd714bcaa96",
+        "android_client_info": {
+          "package_name": "com.example.dropshopappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833864727331-bf0h2aosogkv1ji78t9coi4mpidnh1la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dropshopappdemo",
+            "certificate_hash": "8938281b46dc7eb27107a3624e27d2171d636116"
+          }
+        },
+        {
+          "client_id": "833864727331-uh33o68j9ni1peqf5p3csl4fk9smco6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjG0svHy9hHrM_9vof2wxwh4Byy8pIkWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833864727331-uh33o68j9ni1peqf5p3csl4fk9smco6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
